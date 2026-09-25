@@ -1,0 +1,26 @@
+<variant
+    name="androidMain"
+    package="com.example.pam.shared"
+    minSdkVersion="24"
+    targetSdkVersion="24"
+    mergedManifest="build/intermediates/merged_manifest/androidMain/processAndroidMainManifest/AndroidManifest.xml"
+    partialResultsDir="build/intermediates/unit_test_lint_partial_results/androidMain/lintAnalyzeAndroidHostTest/out"
+    desugaredMethodsFiles="/home/hafidz/.gradle/caches/9.5.1/transforms/12261f99943353a3fd9fe6577b073920/transformed/D8BackportedDesugaredMethods.txt">
+  <buildFeatures/>
+  <sourceProviders>
+  </sourceProviders>
+  <testSourceProviders>
+    <sourceProvider
+        manifests="src/androidHostTest/AndroidManifest.xml"
+        javaDirectories="src/androidHostTest/kotlin:build/generated/compose/resourceGenerator/kotlin/androidHostTestResourceAccessors:src/commonTest/kotlin:build/generated/compose/resourceGenerator/kotlin/commonTestResourceAccessors"
+        resDirectories="src/androidHostTest/res"
+        assetsDirectories="src/androidHostTest/assets"
+        keepRulesDirectories="src/androidHostTest/keepRules:build/generated/compose/resourceGenerator/kotlin/keepRules:src/commonTest/keepRules"
+        unitTest="true"/>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      type="UNIT_TEST">
+  </artifact>
+</variant>

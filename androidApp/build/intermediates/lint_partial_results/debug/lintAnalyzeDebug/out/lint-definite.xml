@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.1.1" type="incidents">
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of Gradle than 9.5.1 is available: 9.8.0">
+        <fix-replace
+            description="Update to 9.8.0"
+            oldString="9.5.1"
+            replacement="9.8.0"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/wrapper/gradle-wrapper.properties"
+            line="4"
+            column="17"
+            startOffset="168"
+            endLine="4"
+            endColumn="80"
+            endOffset="231"/>
+    </incident>
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of com.android.application than 9.1.1 is available: 9.4.1">
+        <fix-replace
+            description="Replace with 9.4.1"
+            family="Update versions"
+            oldString="9.1.1"
+            replacement="9.4.1"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/libs.versions.toml"
+            line="2"
+            column="7"
+            startOffset="17"
+            endLine="2"
+            endColumn="14"
+            endOffset="24"/>
+        <map>
+            <entry
+                name="coordinate"
+                string="com.android.application"/>
+            <entry
+                name="revision"
+                string="9.4.1"/>
+        </map>
+    </incident>
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of com.android.kotlin.multiplatform.library than 9.1.1 is available: 9.4.1">
+        <fix-replace
+            description="Replace with 9.4.1"
+            family="Update versions"
+            oldString="9.1.1"
+            replacement="9.4.1"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/libs.versions.toml"
+            line="2"
+            column="7"
+            startOffset="17"
+            endLine="2"
+            endColumn="14"
+            endOffset="24"/>
+        <map>
+            <entry
+                name="coordinate"
+                string="com.android.application"/>
+            <entry
+                name="revision"
+                string="9.4.1"/>
+        </map>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.core:core-ktx than 1.19.0 is available: 1.19.1">
+        <fix-replace
+            description="Change to 1.19.1"
+            family="Update versions"
+            oldString="1.19.0"
+            replacement="1.19.1"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/libs.versions.toml"
+            line="8"
+            column="17"
+            startOffset="172"
+            endLine="8"
+            endColumn="25"
+            endOffset="180"/>
+    </incident>
+
+    <incident
+        id="NewerVersionAvailable"
+        severity="warning"
+        message="A newer version of org.jetbrains.compose than 1.12.0 is available: 1.12.1">
+        <fix-replace
+            description="Change to 1.12.1"
+            family="Update versions"
+            oldString="1.12.0"
+            replacement="1.12.1"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/libs.versions.toml"
+            line="12"
+            column="24"
+            startOffset="289"
+            endLine="12"
+            endColumn="32"
+            endOffset="297"/>
+    </incident>
+
+    <incident
+        id="NewerVersionAvailable"
+        severity="warning"
+        message="A newer version of org.jetbrains.compose.components:components-resources than 1.12.0 is available: 1.12.1">
+        <fix-replace
+            description="Change to 1.12.1"
+            family="Update versions"
+            oldString="1.12.0"
+            replacement="1.12.1"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/libs.versions.toml"
+            line="12"
+            column="24"
+            startOffset="289"
+            endLine="12"
+            endColumn="32"
+            endOffset="297"/>
+    </incident>
+
+    <incident
+        id="NewerVersionAvailable"
+        severity="warning"
+        message="A newer version of org.jetbrains.compose.foundation:foundation than 1.12.0 is available: 1.12.1">
+        <fix-replace
+            description="Change to 1.12.1"
+            family="Update versions"
+            oldString="1.12.0"
+            replacement="1.12.1"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/libs.versions.toml"
+            line="12"
+            column="24"
+            startOffset="289"
+            endLine="12"
+            endColumn="32"
+            endOffset="297"/>
+    </incident>
+
+    <incident
+        id="NewerVersionAvailable"
+        severity="warning"
+        message="A newer version of org.jetbrains.compose.runtime:runtime than 1.12.0 is available: 1.12.1">
+        <fix-replace
+            description="Change to 1.12.1"
+            family="Update versions"
+            oldString="1.12.0"
+            replacement="1.12.1"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/libs.versions.toml"
+            line="12"
+            column="24"
+            startOffset="289"
+            endLine="12"
+            endColumn="32"
+            endOffset="297"/>
+    </incident>
+
+    <incident
+        id="NewerVersionAvailable"
+        severity="warning"
+        message="A newer version of org.jetbrains.compose.ui:ui than 1.12.0 is available: 1.12.1">
+        <fix-replace
+            description="Change to 1.12.1"
+            family="Update versions"
+            oldString="1.12.0"
+            replacement="1.12.1"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/libs.versions.toml"
+            line="12"
+            column="24"
+            startOffset="289"
+            endLine="12"
+            endColumn="32"
+            endOffset="297"/>
+    </incident>
+
+    <incident
+        id="NewerVersionAvailable"
+        severity="warning"
+        message="A newer version of org.jetbrains.compose.ui:ui-tooling than 1.12.0 is available: 1.12.1">
+        <fix-replace
+            description="Change to 1.12.1"
+            family="Update versions"
+            oldString="1.12.0"
+            replacement="1.12.1"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/libs.versions.toml"
+            line="12"
+            column="24"
+            startOffset="289"
+            endLine="12"
+            endColumn="32"
+            endOffset="297"/>
+    </incident>
+
+    <incident
+        id="NewerVersionAvailable"
+        severity="warning"
+        message="A newer version of org.jetbrains.compose.ui:ui-tooling-preview than 1.12.0 is available: 1.12.1">
+        <fix-replace
+            description="Change to 1.12.1"
+            family="Update versions"
+            oldString="1.12.0"
+            replacement="1.12.1"
+            priority="0"/>
+        <location
+            file="$HOME/coding/PAM/Praktikum2/gradle/libs.versions.toml"
+            line="12"
+            column="24"
+            startOffset="289"
+            endLine="12"
+            endColumn="32"
+            endOffset="297"/>
+    </incident>
+
+    <incident
+        id="ObsoleteSdkInt"
+        severity="warning"
+        message="This folder configuration (`v24`) is unnecessary; `minSdkVersion` is 24. Merge all the resources in this folder into `drawable`.">
+        <fix-data file="${:androidApp*debug*MAIN*sourceProvider*0*resDir*0}/drawable-v24" folderName="drawable" requiresApi="24"/>
+        <location
+            file="${:androidApp*debug*MAIN*sourceProvider*0*resDir*0}/drawable-v24"/>
+    </incident>
+
+    <incident
+        id="MonochromeLauncherIcon"
+        severity="warning"
+        message="The application adaptive icon is missing a monochrome tag">
+        <location
+            file="${:androidApp*debug*MAIN*sourceProvider*0*resDir*0}/mipmap-anydpi-v26/ic_launcher.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="5"
+            endColumn="17"
+            endOffset="272"/>
+    </incident>
+
+    <incident
+        id="MonochromeLauncherIcon"
+        severity="warning"
+        message="The application adaptive roundIcon is missing a monochrome tag">
+        <location
+            file="${:androidApp*debug*MAIN*sourceProvider*0*resDir*0}/mipmap-anydpi-v26/ic_launcher_round.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="5"
+            endColumn="17"
+            endOffset="272"/>
+    </incident>
+
+</incidents>

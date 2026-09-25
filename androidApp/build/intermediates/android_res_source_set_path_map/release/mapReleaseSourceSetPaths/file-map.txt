@@ -1,0 +1,7 @@
+com.example.pam.androidApp-pngs-0 /home/hafidz/coding/PAM/Praktikum2/androidApp/build/generated/res/pngs/release
+com.example.pam.androidApp-updated_navigation_xml-1 /home/hafidz/coding/PAM/Praktikum2/androidApp/build/generated/updated_navigation_xml/release
+com.example.pam.androidApp-packageReleaseResources-2 /home/hafidz/coding/PAM/Praktikum2/androidApp/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.example.pam.androidApp-packageReleaseResources-3 /home/hafidz/coding/PAM/Praktikum2/androidApp/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.example.pam.androidApp-release-4 /home/hafidz/coding/PAM/Praktikum2/androidApp/build/intermediates/merged_res/release/mergeReleaseResources
+com.example.pam.androidApp-main-5 /home/hafidz/coding/PAM/Praktikum2/androidApp/src/main/res
+com.example.pam.androidApp-release-6 /home/hafidz/coding/PAM/Praktikum2/androidApp/src/release/res

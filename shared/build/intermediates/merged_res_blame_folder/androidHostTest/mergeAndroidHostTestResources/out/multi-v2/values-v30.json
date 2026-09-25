@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.pam.shared.test.shared-mergeAndroidHostTestResources-37:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/home/hafidz/.gradle/caches/9.5.1/transforms/67c1e0eae6da1fb4b99cd2925fd63d3b/transformed/material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+com.example.pam.shared-androidMain-0 /home/hafidz/coding/PAM/Praktikum2/shared/build/generated/updated_navigation_xml/androidMain/res
+com.example.pam.shared-packageAndroidMainResources-1 /home/hafidz/coding/PAM/Praktikum2/shared/build/intermediates/incremental/androidMain/packageAndroidMainResources/merged.dir
+com.example.pam.shared-packageAndroidMainResources-2 /home/hafidz/coding/PAM/Praktikum2/shared/build/intermediates/incremental/androidMain/packageAndroidMainResources/stripped.dir
+com.example.pam.shared-packageAndroidMainResources-3 /home/hafidz/coding/PAM/Praktikum2/shared/build/intermediates/packaged_res/androidMain/packageAndroidMainResources/res

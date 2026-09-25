@@ -1,0 +1,3 @@
+com.example.pam.shared.test.shared-mergeAndroidHostTestResources-0 /home/hafidz/coding/PAM/Praktikum2/shared/build/intermediates/incremental/androidHostTest/mergeAndroidHostTestResources/merged.dir
+com.example.pam.shared.test.shared-mergeAndroidHostTestResources-1 /home/hafidz/coding/PAM/Praktikum2/shared/build/intermediates/incremental/androidHostTest/mergeAndroidHostTestResources/stripped.dir
+com.example.pam.shared.test.shared-androidHostTest-2 /home/hafidz/coding/PAM/Praktikum2/shared/build/intermediates/merged_res/androidHostTest/mergeAndroidHostTestResources
